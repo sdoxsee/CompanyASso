@@ -1,0 +1,14 @@
+C:\workspace\CompanyASso\WebHost (minimal)\bin\WebHost.dll.config
+C:\workspace\CompanyASso\WebHost (minimal)\bin\WebHost.dll
+C:\workspace\CompanyASso\WebHost (minimal)\bin\WebHost.pdb
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Microsoft.Owin.dll
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Owin.dll
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Thinktecture.IdentityServer3.dll
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Microsoft.Owin.xml
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Thinktecture.IdentityServer3.pdb
+C:\workspace\CompanyASso\WebHost (minimal)\bin\Thinktecture.IdentityServer3.xml
+C:\workspace\CompanyASso\WebHost (minimal)\obj\Debug\WebHost.csprojResolveAssemblyReference.cache
+C:\workspace\CompanyASso\WebHost (minimal)\obj\Debug\WebHost.dll
+C:\workspace\CompanyASso\WebHost (minimal)\obj\Debug\WebHost.pdb

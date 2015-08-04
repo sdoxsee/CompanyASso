@@ -1,0 +1,5 @@
+C:\workspace\CompanyASso\Constants\bin\Debug\Constants.dll
+C:\workspace\CompanyASso\Constants\bin\Debug\Constants.pdb
+C:\workspace\CompanyASso\Constants\obj\Debug\Constants.dll
+C:\workspace\CompanyASso\Constants\obj\Debug\Constants.pdb
+C:\workspace\CompanyASso\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
