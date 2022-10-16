@@ -1,0 +1,39 @@
+entity Person {
+	/**
+	* The firstname attribute.
+	*/
+	firstName String,
+	lastName String,
+	email String,
+}
+
+entity Candidate {
+	status String
+}
+
+entity KeyRole {
+	jobTitle String
+}
+
+relationship ManyToOne {
+	Person{manager(email)} to Person
+}
+
+relationship OneToMany {
+	Person to Candidate{person(email)}
+    KeyRole to Candidate{keyRole(jobTitle)}
+}
+
+// Set pagination options
+paginate Person with pagination
+paginate KeyRole with pagination
+
+// Use Data Transfer Objects (DTO)
+// dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl
+//except Employee, Job
+
+// Set an angular suffix
+// angularSuffix * with mySuffix
